@@ -20,4 +20,4 @@ Tool viết bằng JavaScript giúp sinh viên Đại học Điện Lực (EPU) 
 **Bước 6:** Mở Google Calendar > Cài đặt > Nhập & Xuất (Import) > Chọn file vừa tải về và tận hưởng thành quả! =)))
 
 ---
-*Code by IT-er EPU with luv ❤️*
+*Code by NGO TRAN DUC ANH | D20TOANTIN_FAS&E_EPU *
